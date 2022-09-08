@@ -1,0 +1,9 @@
+# Washington License Plates
+## A12345B
+* C54631N
+
+## ABC1234
+* BDP8953
+* BFI6045
+* BPL8365
+* CAV6861
